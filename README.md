@@ -2,7 +2,7 @@
 - 👀 I’m interested in vue and react
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 iswuliuqi@163.com
+- 📫 heyweb@163.com
 
 <!---
 lupanlong/lupanlong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
